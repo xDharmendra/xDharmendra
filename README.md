@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Dharmendra 👋
 
-<!--
-**xDharmendra/xDharmendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer with a passion for building innovative solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning advanced data engineering techniques.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Python, JavaScript, and data analysis.
+- 📫 How to reach me: [ email address]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools:
+- Python
+- JavaScript
+- React
+- SQL
+- Power BI
+- Docker
+
+ <!-- ## 📈 GitHub Stats:
+![Dharmendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDharmendra&show_icons=true&theme=radical) -->
+
+## 📫 Connect with me:
+- LinkedIn: [Your LinkedIn Profile]()
+- Twitter: [Your Twitter Profile]()
+
